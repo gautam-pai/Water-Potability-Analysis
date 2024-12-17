@@ -1,0 +1,2 @@
+# Water Potability Analysis
+ The dataset includes several key attributes that are important for assessing water quality and safety. These attributes are pH, hardness, total dissolved solids (TDS), chlorine, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity. The most critical attribute featured in the dataset is potability, which is essential for determining whether the water is safe for consumption.bidity and finally the data to classify is portability
